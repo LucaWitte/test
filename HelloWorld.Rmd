@@ -1,0 +1,22 @@
+---
+title: "Helloworld"
+author: "Luca"
+date: "27 5 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# This is a test
+HELLO WORLD
+
+```{r cars}
+plot(x = c(1:5), y = c(8:12))
+abline(a = 0.5, b = 2)
+abline(a = 0.5, b = 3)
+```
+
+## I am playing around
+test
